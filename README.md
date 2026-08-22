@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rodney Nuñez! 🇩🇴
 
-I'm a **Software Engineer** @ **HubSpot** with a strong passion for **Frontend/Full-stack Engineering**, **Web Development**, and **AI**.
+I'm a **Senior Software Engineer** @ **HubSpot** with a strong passion for **Frontend/Full-stack Engineering**, **Web Development**, and **AI**.
 
 🎓 I've graduated with a **Bachelor of Science in Computer Science** (Aug. 2025) at the **New Jersey Institute of Technology**. where I was involved in **ColorStack** and the **Society of Hispanic Professional Engineers**. I also graduated from **Correlation One's DS4A Data Engineering Bootcamp**. 📚
 
